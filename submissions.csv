@@ -1,0 +1,66 @@
+id,taskId,taskTitle,domainName,userId,Name,RollNo,createdAt,updatedAt,link,content,fileName,hasFile,marks,penalty,remarks
+90,3,Task 1,App Dev,74,KEVIN KUMAR S,111125056,2026-06-16 08:10:24.955,2026-06-16 08:10:27.837,https://github.com/Kevinkumar29/spider_software_task1_SKevinKumar_111125056.git,Spider Task 1 submission from S KevinKumar 111125056 - application development domain,111125056_task_1_App_Dev.zip,0,NULL,NULL,NULL
+91,3,Task 1,App Dev,136,AMRITHA MADHUMALARARUNGEETHAYAN,107125012,2026-06-16 13:07:11.987,2026-06-16 13:07:36.470,https://github.com/Amritha-Madhumalararungeethayan/AppDev-/tree/main,"Base tasks : 
+app dev 
+ui ux 
+devops 
+MAIN TASK : 
+app dev ",107125012_task_1_App_Dev.zip,0,NULL,NULL,NULL
+96,3,Task 1,App Dev,102,SHIVA VERMA,108125117,2026-06-16 16:52:01.166,2026-06-16 16:52:07.679,https://github.com/shiva589050-prog/WEB-DEV-PROJECT/blob/main/WEB-DEV-DEMO-VIDIO%20/DEMO-VIDIO%20WEB%20DEV,,108125117_task_1_App_Dev.zip,0,NULL,NULL,NULL
+100,3,Task 1,App Dev,123,KRISHNENDU VINOD KUMAR,106125055,2026-06-16 17:15:14.236,2026-06-16 17:15:14.236,https://github.com/krish150455/Spider-Induction-Tasks.git,null,106125055_task_1_App_Dev.zip,0,NULL,NULL,NULL
+103,3,Task 1,App Dev,505,KIRUTHIKA RAJALINGAM,111125057,2026-06-16 17:55:38.851,2026-06-16 17:55:38.851,https://drive.google.com/drive/folders/1TGVyaXH1hZcMX3btwVYMtvGpdWK5033g?usp=sharing,"I've done basic tasks of the Application Development, UI/UX and Cryptography.",111125057_task_1_App_Dev.zip,0,NULL,NULL,NULL
+105,3,Task 1,App Dev,319,CHIPPADA LAKSHMI SAI TEJA,108125026,2026-06-16 18:01:46.383,2026-06-16 18:01:49.402,https://github.com/SAITEJA1420/Hawkins-Labyrinth,"Git Hub repo was being submitted, which contain all the details.",108125026_task_1_App_Dev.zip,0,NULL,NULL,NULL
+112,3,Task 1,App Dev,406,VARUN SIVA A,106125134,2026-06-16 18:37:41.974,2026-06-16 18:37:50.128,https://v39008594-tech.github.io/my-project/,appdev tasks,106125134_task_1_App_Dev.zip,0,NULL,NULL,NULL
+116,3,Task 1,App Dev,388,VEDHIKA M,108125135,2026-06-17 03:07:42.577,2026-06-17 03:09:29.486,https://drive.google.com/drive/folders/1_5jXqITevoltM1NIePUOoLSibRHBfBV7?usp=sharing,null,108125135_task_1_App_Dev.zip,0,NULL,NULL,NULL
+117,3,Task 1,App Dev,417,JOSEPH MARIO,106125047,2026-06-17 06:33:49.782,2026-06-17 06:33:49.781,https://github.com/Joseph-git486/Spider_Software_Task1,null,106125047_task_1_App_Dev.zip,0,NULL,NULL,NULL
+89,8,Task 1,UI/UX,57,KADIMPALLI DINESH,110125043,2026-06-14 18:39:12.695,2026-06-14 18:39:12.695,https://drive.google.com/drive/folders/1o5KUu3Bf80VuY0Q3WQFLUX6Jgl3eA5_N,null,110125043_task_1_UI/UX.zip,0,NULL,NULL,NULL
+98,8,Task 1,UI/UX,415,NICKHIL S,110125066,2026-06-16 17:14:04.871,2026-06-16 17:14:04.870,https://github.com/Nickhilsekar/spiderRandD,null,110125066_task_1_UI/UX.zip,0,NULL,NULL,NULL
+122,8,Task 1,UI/UX,287,VIDYUT SURESH,106125136,2026-06-17 18:44:17.576,2026-06-17 18:44:17.575,https://drive.google.com/file/d/1CKtu4Ik61uGvyeiNoCogQ8tvP6jWAZHE/view?usp=sharing,"Google drive link containing Figma links.. 
+Sync music landing page
+Sync recapped 2026",106125136_task_1_UI/UX.zip,0,NULL,NULL,NULL
+87,10,Task 1,Blockchain,386,SUSEENTHER S,110125110,2026-06-14 15:07:46.203,2026-06-14 15:07:46.203,https://github.com/susee19/autonomous-viral-marketing-network,inside even there is base task in the folder Dead Man Switch apart from agents and dashboard,110125110_task_1_Blockchain.zip,0,NULL,NULL,NULL
+94,10,Task 1,Blockchain,266,P K DHEEPAK RAAJ,110125072,2026-06-16 14:13:47.733,2026-06-16 14:13:47.733,https://drive.google.com/file/d/1wStwNnEUgrxXli_RohOL2H0OiGRPInnI/view?usp=sharing,null,110125072_task_1_Blockchain.zip,0,NULL,NULL,NULL
+108,10,Task 1,Blockchain,50,AAYUSH RAJU MAHORE,112125001,2026-06-16 18:18:40.659,2026-06-16 18:18:40.659,https://github.com/aayush69-debug/Spider_Induction_Submissions.git,"3 basic tasks of devops,cybersec,blockchain + 1 domain specific task of devops",112125001_task_1_Blockchain.zip,0,NULL,NULL,NULL
+115,10,Task 1,Blockchain,151,PRATIK KUMAR PANDEY P,107125096,2026-06-16 20:34:56.158,2026-06-16 20:34:56.158,https://github.com/Voidloop31/SPIDER-DOMAIN-SPECIFIC-BLOCKCHAIN,"domain specific task link : https://github.com/Voidloop31/SPIDER-DOMAIN-SPECIFIC-BLOCKCHAIN
+basic tasks :
+blockchain : https://github.com/Voidloop31/TRAINING
+app development :https://github.com/Voidloop31/KING_OF_DIAMONDS",107125096_task_1_Blockchain.zip,0,NULL,NULL,NULL
+83,11,Task 1,DevOps,473,HIBA FATHIMA SHAALAM,106125040,2026-06-13 16:15:56.126,2026-06-13 16:16:19.670,https://github.com/hibaNITT/Spider_Devops_Basic_Task,null,106125040_task_1_DevOps.zip,0,NULL,NULL,NULL
+85,11,Task 1,DevOps,164,RAJ AHMED,106125091,2026-06-13 22:11:22.655,2026-06-13 22:11:22.654,https://github.com/eremognosis/spider-devops-basic,"/basic : basic task
+/domain : domain specific task
+
+repo publicized on 14th June (code last updated many days ago)
+Same repo contains both task",106125091_task_1_DevOps.zip,0,NULL,NULL,NULL
+99,11,Task 1,DevOps,92,YASHVEER SINGH,107125139,2026-06-16 17:15:11.576,2026-06-16 17:15:13.936,https://github.com/0yashveer/Spider_Software_Task_1,this repo consists of 3 basic tasks and domain specific task for devops,107125139_task_1_DevOps.zip,0,NULL,NULL,NULL
+101,11,Task 1,DevOps,123,KRISHNENDU VINOD KUMAR,106125055,2026-06-16 17:15:27.548,2026-06-16 17:15:27.548,https://github.com/krish150455/Spider-Induction-Tasks.git,null,106125055_task_1_DevOps.zip,0,NULL,NULL,NULL
+102,11,Task 1,DevOps,153,ANSHUL NEGI,112125005,2026-06-16 17:29:42.834,2026-06-16 17:29:42.834,https://github.com/Anshul1310/TASK_SPIDER,"The task I have completed are:
+Basic
+APP DEV
+DEVOPS
+CYBERSEC
+
+Domain Task
+Devops
+
+The video link is 
+https://drive.google.com/file/d/1lUYSkF3GsNYsQTsDuLcF8Tn6N-SZi23W/view?usp=sharing
+since 10 mb bottle neck of github compressed video so much that nothing was visible",112125005_task_1_DevOps.zip,0,NULL,NULL,NULL
+104,11,Task 1,DevOps,203,ATHARV SONI,106125016,2026-06-16 17:58:32.585,2026-06-16 17:58:32.585,https://github.com/Atharv810/Spider_Software_Task1,null,106125016_task_1_DevOps.zip,0,NULL,NULL,NULL
+106,11,Task 1,DevOps,144,RISVANTH K M,111125094,2026-06-16 18:15:19.561,2026-06-16 18:15:19.560,https://github.com/risvanthkm/spider_devops_task1/,"My repository has 3 basic tasks (of domains DevOps, AppDev, Cybersecurity) and the DevOps task 1 . ",111125094_task_1_DevOps.zip,0,NULL,NULL,NULL
+107,11,Task 1,DevOps,50,AAYUSH RAJU MAHORE,112125001,2026-06-16 18:17:19.033,2026-06-16 18:17:19.032,https://github.com/aayush69-debug/Spider_Induction_Submissions.git,null,112125001_task_1_DevOps.zip,0,NULL,NULL,NULL
+113,11,Task 1,DevOps,182,SAGAR AGGARWAL,106125099,2026-06-16 18:41:08.023,2026-06-16 18:41:08.023,https://github.com/MightyRaju007/Spider-Task-1-,null,106125099_task_1_DevOps.zip,0,NULL,NULL,NULL
+84,12,Task 1,Cybersecurity,141,MOULEESWAR V,108125073,2026-06-13 19:42:03.275,2026-06-13 19:42:03.275,https://github.com/Tutu-ster-1729/Mouleeswar-V_Spider_Task_1.git,"The repo contains submissions for 3 basic tasks from domains AppDev, CyberSec, DevOps and 1 domain Specific task for the domain CyberSec",108125073_task_1_Cybersecurity.zip,0,NULL,NULL,NULL
+86,12,Task 1,Cybersecurity,164,RAJ AHMED,106125091,2026-06-14 08:22:55.043,2026-06-17 12:48:53.782,https://drive.google.com/file/d/1JTnjvqz61xESJyTcFcBcYUlyHCCLJll6/view?usp=sharing,"ALREADY SUBMITTED
+THIS IS THE UPDATE FOR VIDEO
+(as i was out of stattion for two days after 14th)",106125091_task_1_Cybersecurity.zip,0,NULL,NULL,NULL
+92,12,Task 1,Cybersecurity,76,NIRAV KARAHE,106125079,2026-06-16 13:10:30.557,2026-06-16 13:10:38.371,https://github.com/NK1697/Spider_Software_Task_1,null,106125079_task_1_Cybersecurity.zip,0,NULL,NULL,NULL
+93,12,Task 1,Cybersecurity,128,MAYANK KUMAR,114125062,2026-06-16 13:49:21.195,2026-06-16 13:49:21.195,https://github.com/Mayank637-pixel/Mayank_Kumar_Spider_Task_1,"Domain Specific task: Cybersecurity
+Basic_Tasks: Cybersecurity, UI_UX , DevOps
+Name:Mayank Kumar
+Roll no:114125062",114125062_task_1_Cybersecurity.zip,0,NULL,NULL,NULL
+95,12,Task 1,Cybersecurity,514,SANDYA PARTHIBAN,106125103,2026-06-16 15:12:48.581,2026-06-16 15:12:56.471,https://github.com/sandy-pj2007/SandyaParthiban_Spider_task_1,null,106125103_task_1_Cybersecurity.zip,0,NULL,NULL,NULL
+97,12,Task 1,Cybersecurity,354,R SHARAN GOPALAN,106125098,2026-06-16 17:12:59.755,2026-06-16 17:13:04.591,https://drive.google.com/drive/folders/14MKz7MKPSPb78kcvZJ6o6Y-ylDeB5A2-?usp=drive_link,null,106125098_task_1_Cybersecurity.zip,0,NULL,NULL,NULL
+109,12,Task 1,Cybersecurity,50,AAYUSH RAJU MAHORE,112125001,2026-06-16 18:19:09.599,2026-06-16 18:19:09.598,https://github.com/aayush69-debug/Spider_Induction_Submissions.git,"3 basic tasks of devops,cybersec,blockchain + 1 domain specific task of devops",112125001_task_1_Cybersecurity.zip,0,NULL,NULL,NULL
+110,12,Task 1,Cybersecurity,236,K VISHAK,106125059,2026-06-16 18:25:14.028,2026-06-16 18:25:14.027,https://drive.google.com/drive/folders/1aeVOQJhf0YdnbkV27J1bscYv8PLtHgFh?usp=sharing,"The drive link has the tasks split into subfolders accordingly, with each subfolder having the required files, and a writeup in .MD format. A video is also included in the root.",106125059_task_1_Cybersecurity.zip,0,NULL,NULL,NULL
+111,12,Task 1,Cybersecurity,277,ANNAMALAI L,110125010,2026-06-16 18:27:18.771,2026-06-16 18:27:48.421,https://drive.google.com/drive/folders/1--m0_xlgD_qv5eEH4XxiNtghgBJa1RqF?usp=drive_link,Great ,110125010_task_1_Cybersecurity.zip,0,NULL,NULL,NULL
+114,12,Task 1,Cybersecurity,182,SAGAR AGGARWAL,106125099,2026-06-16 18:41:32.218,2026-06-16 18:41:32.218,https://github.com/MightyRaju007/Spider-Task-1-,null,106125099_task_1_Cybersecurity.zip,0,NULL,NULL,NULL
